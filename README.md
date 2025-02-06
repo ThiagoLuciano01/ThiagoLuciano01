@@ -2,7 +2,7 @@
 
  ## 
 <div align="center">
-  <a href="https://github.com/thiaghost](https://github.com/ThiagoLuciano01">
+  <a href="https://github.com/ThiagoLuciano01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLuciano01&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 
